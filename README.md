@@ -46,7 +46,7 @@ To get started with the Loan Management System, follow these steps:
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/theanantchoubey/loan-management-system.git
+    git clone https://github.com/DeepanshuPathekar/Loan-App
     ```
 
 2.  **Install the project dependencies & run Frontend:**
